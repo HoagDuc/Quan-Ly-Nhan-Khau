@@ -1,0 +1,79 @@
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.csproj.AssemblyReference.cache
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.Properties.Resources.resources
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.csproj.GenerateResource.cache
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.csproj.CoreCompileInputs.cache
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.exe
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.pdb
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormNhanKhau.resources
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormLogin.resources
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormHome.resources
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormPhuong.resources
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormToDanPho.resources
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormNPT.resources
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormBaoCaoNK.resources
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.reportNhanKhau.resources
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.csproj.CopyComplete
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\QuanLiNhanKhau.exe
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\QuanLiNhanKhau.pdb
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\AxShockwaveFlashObjects.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.Shared.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.Windows.Forms.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\ShockwaveFlashObjects.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\stdole.dll
+C:\Users\Minh Duc\OneDrive\Tài liệu\BTL HSK\Project\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\QuanLiNhanKhau.exe
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\QuanLiNhanKhau.pdb
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\AxShockwaveFlashObjects.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportSource.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.Shared.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.Windows.Forms.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\ShockwaveFlashObjects.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\stdole.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.csproj.AssemblyReference.cache
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormBaoCaoNK.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormNhanKhau.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormLogin.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormNPT.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormPhuong.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormToDanPho.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.Properties.Resources.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormHome.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.reportNhanKhau.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.csproj.GenerateResource.cache
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.csproj.CoreCompileInputs.cache
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.csproj.CopyComplete
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.exe
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.pdb
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormAccount.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormAccountManager.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormBaoCaoNPT.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\bin\QuanLiNhanKhau.exe.config
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormHomeUser.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.FormReportNPT.resources
+D:\learning\QuanLiNhanKhau\QuanLiNhanKhau\obj\Debug\QuanLiNhanKhau.Form1.resources
